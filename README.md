@@ -14,7 +14,7 @@
 
 I'm a **Data Scientist** who builds production ML systems that generate real business impact — not just notebooks.
 
-🔭 Currently at **Northern Tool + Equipment**, where I replaced an expensive external lead scoring tool by building in-house propensity models on **Microsoft Fabric**
+🔭 Recently Completed my Internship at **Northern Tool + Equipment**, where I replaced an expensive external lead scoring tool by building in-house propensity models on **Microsoft Fabric**
 
 🚀 My models are live in production, driving marketing campaigns and generating **measurable revenue**
 
